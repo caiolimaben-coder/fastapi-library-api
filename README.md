@@ -1,6 +1,6 @@
 # FastAPI Book API
 
-API REST desenvolvida com FastAPI para gerenciamento de livros.
+Projeto desenvolvido para praticar conceitos de desenvolvimento backend com Python e FastAPI. A API implementa operações CRUD para gerenciamento de livros, seguindo uma arquitetura organizada e escalável.
 
 ## Tecnologias
 
